@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Axiforma-Black';
+    src: url('Axiforma-Black.ttf') format('woff2'), url('IBMPlexSans-Regular.ttf') format('woff');
+}
+.s {
+    color: #000000;
+    font-family: 'Axiforma-Black';
+    font-size: 107px;
+}
+
+.q {
+    color: #000000;
+    font-family: 'Axiforma-Black';
+    font-size: 107px;
+}
+
+.l {
+    color: #000000;
+    font-family: 'Axiforma-Black';
+    font-size: 107px;
+}
+
+.f {
+    color: #000000;
+    font-family: 'Axiforma-Black';
+    font-size: 88px;
+}
